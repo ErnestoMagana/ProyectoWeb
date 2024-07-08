@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\data\\migrations\\20240707231523_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:data\\migrations\\20240707231523_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\controllers\\formularioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:controllers\\formularioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\views\\formularios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:views\\formularios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|c:\\users\\ernes\\documents\\programacion\\a\u0026b\\test\\proyectoweb\\models\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69440B-BE2F-4E42-BE90-326377142252}|ProyectoWeb.csproj|solutionrelative:models\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T03:25:47.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:52:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Views\\Formularios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Formularios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Views\\Formularios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Formularios\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T02:54:52.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:52:13.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240707231523_initialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Data\\Migrations\\20240707231523_initialsetup.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240707231523_initialsetup.cs",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Data\\Migrations\\20240707231523_initialsetup.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240707231523_initialsetup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:15:23.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormulariosController.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Controllers\\FormulariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FormulariosController.cs",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Controllers\\FormulariosController.cs",
+              "RelativeToolTip": "Controllers\\FormulariosController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:11:07.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T22:50:56.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:25:03.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Formulario.cs",
+              "DocumentMoniker": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Models\\Formulario.cs",
+              "RelativeDocumentMoniker": "Models\\Formulario.cs",
+              "ToolTip": "C:\\Users\\ernes\\Documents\\Programacion\\A\u0026B\\Test\\ProyectoWeb\\Models\\Formulario.cs",
+              "RelativeToolTip": "Models\\Formulario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:05:56.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
