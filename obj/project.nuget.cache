@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2PG7hOBCIdE=",
+  "dgSpecHash": "lUL9fWw7rnA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\ProyectoWeb.csproj",
+  "projectFilePath": "C:\\Users\\ernes\\Downloads\\Test1\\ProyectoWeb\\ProyectoWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ernes\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ernes\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

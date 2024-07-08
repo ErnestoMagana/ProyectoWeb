@@ -1,14 +1,20 @@
-﻿@{
+﻿<! -- Esta es la pagina home de esta aplicacion, en el folder llamado formulario se encuentra las views usadas para la bases de datos, el formulario tambien se puede crear en esta pagina en el footer--> 
+<! -- Las imagenes de este folder se encuentran en "wwwroot/lib/imagenes/"-->
+
+@{
     ViewData["Title"] = "Home Page";
 }
 @model ProyectoWeb.Models.Formulario
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Kode+Mono:wght@400..700&display=swap" rel="stylesheet">
 <div class="headline0">
-    <h1 class="display-2 text-center">Prueba de pagina web</h1>
+    <h1 class="display-2  text-center">Prueba de pagina web</h1>
     <div class="px-5">
-    <h2 class="parrafo text-center">Esta es una pagina web generica unicamente hecha para cumplir los objetivos de la prueba.
+    <h2 class="parrafo text-center">Esta es una pagina web basica unicamente hecha para cumplir los objetivos de la prueba.
         
     
         </h2>
@@ -18,7 +24,8 @@
     <div class="headline">
 <div class="headline1">
     <div class="foto-container">
-        <img src="./lib/imagenes/imagen1.webp"  />
+
+        <img src="./lib/imagenes/imagen1.png"  />
     </div>
    
     <div class="textcontainer">
@@ -35,41 +42,48 @@
 
     </div>
     <div class="foto-container">
-        <img src="./lib/imagenes/imagen2.jpg" />
+        <img src="./lib/imagenes/imagen2.webp" />
     </div>
     </div>
 </div>
 <br />
+
     <div class="products-section">
-        <div class="product-display">
-            <div class="products">
-                <img src="./lib/imagenes/imagen3.png" />
+<br></br>        <div class="product-display">
+            <div class="products">                          
+                <img class="product-image default" src="./lib/imagenes/imagen3.png" />
+            <img class="product-image hover" src="./lib/imagenes/imagen4.jpg" />
                 <h3>Producto</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing eli</p>
             </div>
         <div class="products">
-            <img src="./lib/imagenes/imagen3.png" />
+            <img class="product-image default" src="./lib/imagenes/imagen3.png" />
+            <img class="product-image hover" src="./lib/imagenes/imagen4.jpg" />
             <h3>Producto</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing eli</p>
         </div>
         <div class="products">
-            <img src="./lib/imagenes/imagen3.png" />
+            <img class="product-image default" src="./lib/imagenes/imagen3.png" />
+            <img class="product-image hover" src="./lib/imagenes/imagen4.jpg" />
             <h3>Producto</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing eli</p>
         </div>
         
         <div class="products">
-            <img src="./lib/imagenes/imagen3.png" />
+            <img class="product-image default" src="./lib/imagenes/imagen3.png" />
+            <img class="product-image hover" src="./lib/imagenes/imagen4.jpg" />
             <h3>Producto</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
         <div class="products">
-            <img src="./lib/imagenes/imagen3.png" />
+            <img class="product-image default" src="./lib/imagenes/imagen3.png" />
+            <img class="product-image hover" src="./lib/imagenes/imagen4.jpg" />
             <h3>Producto</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
         </div>
         <div class="products">
-            <img src="./lib/imagenes/imagen3.png" />
+            <img class="product-image default" src="./lib/imagenes/imagen3.png" />
+            <img class="product-image hover" src="./lib/imagenes/imagen4.jpg" />
             <h3>Producto</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing eli</p>
         </div>
@@ -78,16 +92,17 @@
 
 
 
-<footer class="footer-custom">
-    <div class="col-md-4">
+<footer class="footer-custom"><div class="contenedor-footer">
+    <div class="align-self-center ">
         <h1>Contactanos:</h1>
         <br />
-        <p>Email: example@example.com</p>
-        <p>Phone: (123) 456-7890</p>
+        <p>Email: ejemplo@ejemplo.com</p>
+        <p>Telefono: (123) 456-7890</p>
     </div>
     <div class="separador"> </div>
-    <div class="col-md-4 ">
-        <h1> Formulario de contacto:</h1>
+    <div class="align-self-lg-end">
+            <! -- Este es el formulario, por el momento solo valida que sea existente los datos correspodientes-->
+            <h1> Formulario de contacto:</h1>
         <form asp-action="Create" asp-controller="Formularios">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -107,11 +122,13 @@
             </div>
             <div class="form-group text-center">
                 <br>
-                <input type="submit" value="Create" class="btn btn-primary " />
-            </div>
+                    <input type="submit" value="Crear" class="btn botones " />
+                </div>
+        
         </form>
+        </div>
     </div>
-
+   
 </footer>
 
 @section Scripts {

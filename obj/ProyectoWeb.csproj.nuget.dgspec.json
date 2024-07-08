@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\ProyectoWeb.csproj": {}
+    "C:\\Users\\ernes\\Downloads\\Test1\\ProyectoWeb\\ProyectoWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\ProyectoWeb.csproj": {
+    "C:\\Users\\ernes\\Downloads\\Test1\\ProyectoWeb\\ProyectoWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\ProyectoWeb.csproj",
+        "projectUniqueName": "C:\\Users\\ernes\\Downloads\\Test1\\ProyectoWeb\\ProyectoWeb.csproj",
         "projectName": "ProyectoWeb",
-        "projectPath": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\ProyectoWeb.csproj",
+        "projectPath": "C:\\Users\\ernes\\Downloads\\Test1\\ProyectoWeb\\ProyectoWeb.csproj",
         "packagesPath": "C:\\Users\\ernes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\obj\\",
+        "outputPath": "C:\\Users\\ernes\\Downloads\\Test1\\ProyectoWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ernes\\AppData\\Roaming\\NuGet\\NuGet.Config",
