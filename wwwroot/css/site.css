@@ -8,6 +8,7 @@ html {
   }
 }
 
+
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
@@ -16,7 +17,102 @@ html {
   position: relative;
   min-height: 100%;
 }
-
+.headercolor {
+    background-color: #5580E9;
+}
 body {
-  margin-bottom: 60px;
+    font-family: 'Wittgenstein', serif;
+    background-color: white;
+}
+#input-text{
+    
+}
+.footer-custom {
+    background-color: #36C2CE ;
+    display: flex;
+    width: 100%;
+    heigth:100%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+    bottom:0;
+  
+}
+.headline0 {
+    width: 100%;
+    text-justify:center;
+    padding-top: 1rem;
+}
+.titulo{
+    text-align:center;
+}
+.headline {
+   
+    background-color: #84CEEB;
+}
+.headline1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.foto-container {
+    display: flex;
+    width: 360px;
+    height: 500px;
+    border-radius: 3rem;
+    overflow: hidden;
+}
+    .foto-container img {
+       padding-left:-100px;
+    }
+.textcontainer {
+    border-radius: 1rem;
+    width: 42rem;
+    align-content:center;
+    text-align: center;
+   
+}
+
+.linea{
+    background-color:white;
+    height:10px;
+    width:90px;
+
+}
+.parrafo {
+    padding-inline:3rem;
+    font-family: 'Wittgenstein', serif;
+    font-size: 30px;
+    
+}
+.products-section {
+    
+}
+
+.product-display {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+    width: 100%;
+}
+.products {
+    background-color: #EBF5FF;
+    width: 30%;
+    
+    text-align:center;
+}
+.products img{
+    height:100px;
+    width:100px;
+}
+.separador{
+    background-color:black;
+    width:3px;
+    height:20rem;
+    border-radius:3rem
 }

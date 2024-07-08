@@ -2,38 +2,118 @@
     ViewData["Title"] = "Home Page";
 }
 @model ProyectoWeb.Models.Formulario
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+<div class="headline0">
+    <h1 class="display-2 text-center">Prueba de pagina web</h1>
+    <div class="px-5">
+    <h2 class="parrafo text-center">Esta es una pagina web generica unicamente hecha para cumplir los objetivos de la prueba.
+        
+    
+        </h2>
+    </div>
 </div>
-<footer>
-<div class="row">
+<br></>
+    <div class="headline">
+<div class="headline1">
+    <div class="foto-container">
+        <img src="./lib/imagenes/imagen1.webp"  />
+    </div>
+   
+    <div class="textcontainer">
+        <h1 class="display-4 ">Titulo</h1>
+            <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h2>
+    </div>
+   
+</div>
+<div class="headline1">
+    
+    <div class="textcontainer">
+        <h1 class="display-4">Titulo</h1>
+            <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h2>
+
+    </div>
+    <div class="foto-container">
+        <img src="./lib/imagenes/imagen2.jpg" />
+    </div>
+    </div>
+</div>
+<br />
+    <div class="products-section">
+        <div class="product-display">
+            <div class="products">
+                <img src="./lib/imagenes/imagen3.png" />
+                <h3>Producto</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing eli</p>
+            </div>
+        <div class="products">
+            <img src="./lib/imagenes/imagen3.png" />
+            <h3>Producto</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing eli</p>
+        </div>
+        <div class="products">
+            <img src="./lib/imagenes/imagen3.png" />
+            <h3>Producto</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing eli</p>
+        </div>
+        
+        <div class="products">
+            <img src="./lib/imagenes/imagen3.png" />
+            <h3>Producto</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="products">
+            <img src="./lib/imagenes/imagen3.png" />
+            <h3>Producto</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+        </div>
+        <div class="products">
+            <img src="./lib/imagenes/imagen3.png" />
+            <h3>Producto</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing eli</p>
+        </div>
+    </div><br />
+    </div>
+
+
+
+<footer class="footer-custom">
     <div class="col-md-4">
+        <h1>Contactanos:</h1>
+        <br />
+        <p>Email: example@example.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </div>
+    <div class="separador"> </div>
+    <div class="col-md-4 ">
+        <h1> Formulario de contacto:</h1>
         <form asp-action="Create" asp-controller="Formularios">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Nombre" class="control-label"></label>
+                <label asp-for="Nombre" class="control-label">Nombre:</label>
                 <input asp-for="Nombre" class="form-control" />
                 <span asp-validation-for="Nombre" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Email" class="control-label"></label>
+                <label asp-for="Email" class="control-label">Email:</label>
                 <input asp-for="Email" class="form-control" />
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Mensaje" class="control-label"></label>
+                <label asp-for="Mensaje" class="control-label">Mensaje:</label>
                 <input asp-for="Mensaje" class="form-control" />
                 <span asp-validation-for="Mensaje" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="form-group text-center">
+                <br>
+                <input type="submit" value="Create" class="btn btn-primary " />
             </div>
         </form>
     </div>
-</div>
+
 </footer>
+
 @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");

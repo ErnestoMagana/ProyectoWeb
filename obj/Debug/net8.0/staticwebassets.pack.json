@@ -197,6 +197,22 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\wwwroot\\lib\\imagenes\\flor.webp",
+      "PackagePath": "staticwebassets\\lib\\imagenes\\flor.webp"
+    },
+    {
+      "Id": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\wwwroot\\lib\\imagenes\\imagen1.webp",
+      "PackagePath": "staticwebassets\\lib\\imagenes\\imagen1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\wwwroot\\lib\\imagenes\\imagen2.jpg",
+      "PackagePath": "staticwebassets\\lib\\imagenes\\imagen2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\wwwroot\\lib\\imagenes\\imagen3.png",
+      "PackagePath": "staticwebassets\\lib\\imagenes\\imagen3.png"
+    },
+    {
       "Id": "C:\\Users\\ernes\\Documents\\Programacion\\A&B\\Test\\ProyectoWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
